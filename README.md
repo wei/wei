@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Wei He
+# Wei's Website
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+It's+Wei%2C+welcome!)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-wei.sh-blue?style=flat-square&logo=globe)](https://wei.sh)
 [![Twitter](https://img.shields.io/badge/Twitter-@weicodes-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/weicodes)
