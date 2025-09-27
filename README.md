@@ -1,24 +1,69 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Hi there! 👋 I'm Wei He
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+[![Website](https://img.shields.io/badge/Website-wei.sh-blue?style=flat-square&logo=globe)](https://wei.sh)
+[![Twitter](https://img.shields.io/badge/Twitter-@weicodes-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/weicodes)
+[![GitHub followers](https://img.shields.io/github/followers/wei?label=Followers&style=flat-square&logo=github)](https://github.com/wei)
+[![GitHub stars](https://img.shields.io/github/stars/wei?affiliations=OWNER&style=flat-square&logo=github)](https://github.com/wei)
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+## About Me
+�‍💻 **Full Stack Engineer** | ☁️ **Solutions Architect Expert** | 💼 **M.B.A.**
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+I'm passionate about building innovative solutions and contributing to the open-source community. With expertise spanning full-stack development and cloud architecture, I enjoy creating scalable applications and mentoring the next generation of developers.
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 📍 **Location**: Florida, USA
+- 🎓 **Education**: MBA from University of Illinois at Urbana-Champaign (2017-2019)
+- � **Available for Hire**: Yes!
+- 🌐 **Website**: [wei.sh](https://wei.sh)
+- 📧 **Email**: github@weispot.com
+
+## Experience & Involvement
+### Major League Hacking (MLH)
+- **Coach** (May 2023 - Present) - Mentoring hackathon participants and fostering innovation
+- **Technical Program Associate** (August 2021) - Supporting technical programs and community initiatives  
+- **MLH Fellowship Open Source Fellow** (August - December 2020) - AWS Amplify contributor
+
+## Upcoming Coaching Events 🚀
+I'll be coaching at these amazing hackathons in the 2026 season:
+
+### 📅 October 2025
+- **[Hack the Valley](https://hackthevalley.io/)** - October 3rd-5th, 2025 | Scarborough, Ontario 🇨🇦
+- **[CodeRED: Astra](https://astra2025.pages.dev/)** - October 18th-19th, 2025 | Houston, Texas 🤠
+- **[Knight Hacks VIII](https://2025.knighthacks.org/)** - October 24th-26th, 2025 | Orlando, Florida ☀️
+
+Come say hi if you're attending any of these events! I love connecting with hackers and helping bring innovative projects to life. 💡
+
+## Featured Projects 🛠️
+
+### 🤖 Automation & Developer Tools
+- **[Pull](https://github.com/wei/pull)** — Keep your forks up-to-date via automated PRs (TypeScript) — ⭐ 6.8k stars
+- **[Socialify](https://github.com/wei/socialify)** — Socialify your project. Share with the world! (TypeScript) — ⭐ 2.1k stars  
+- **[Git Sync](https://github.com/wei/git-sync)** — GitHub Action for syncing between repositories using force push (Shell) — ⭐ 264 stars
+
+### ☁️ Infrastructure & DevOps
+- **[Cloudflare Script](https://github.com/wei/cloudflare-script)** — GitHub Action for writing inline-scripts using Cloudflare TypeScript SDK (TypeScript) — *New 2025*
+- **[Cloudflare Email Routing](https://github.com/wei/cloudflare-email-routing)** — GitHub-driven self-service email forwarding system (TypeScript) — *New 2025*
+- **[MyMLH MCP Server](https://github.com/wei/mymlh-mcp-server)** — Model Context Protocol Server for MyMLH API v4 (TypeScript) — *New 2025*
+
+### 🌐 Web Development & Utilities  
+- **[Simple Resume Site](https://github.com/wei/simple-resume-site)** — Fast, responsive, SEO-friendly resume template with React & TypeScript (TypeScript) — *New 2025*
+- **[Thread-It](https://github.com/wei/thread-it)** — Discord bot that keeps channels clean by converting replies into threads (Python) — ⭐ 8 stars
+- **[GitHub Actions Collection](https://github.com/wei/curl)** — Suite of Docker-wrapped CLI tools (curl, wget, rclone) for GitHub Actions
+
+## GitHub Stats
+- 🏆 **132** public repositories
+- ⭐ **939** followers
+- 👥 Following **239** amazing developers
+- 📝 **9** public gists
+- 🗓️ **GitHub member since**: November 2013
+
+## Tech Stack & Interests
+- 🧰 **Languages**: Full-stack development across multiple technologies
+- ☁️ **Cloud**: AWS Solutions Architecture
+- 🔭 **Focus**: Scalable applications, open-source contributions, developer mentoring
+- ❤️ **Interests**: Hackathons, education technology, community building
+
+## Let's Connect!
+Feel free to reach out for collaboration opportunities, mentoring, or just to chat about technology!
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---

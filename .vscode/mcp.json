@@ -2,7 +2,7 @@
   "servers": {
     "mymlh": {
       "type": "http",
-      "url": "https://mymlh-mcp.git.ci/mcp"
+      "url": "https://mymlh-mcp-alt.git.ci/mcp"
     }
   }
 }
