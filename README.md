@@ -1,24 +1,28 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-100%2B-brightgreen?style=flat-square)](https://mlh.io)
+[![Followers](https://img.shields.io/github/followers/wei?label=Followers&style=flat-square)](https://github.com/wei)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Wei He. I'm a Technical Program Associate at Major League Hacking. As a Full Stack Engineer and Solutions Architect, I build web services, developer tools, and hackathon projects with a focus on TypeScript, JavaScript, and cloud infrastructure.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Florida
+- 🎓 Education: University of Illinois at Urbana-Champaign (M.B.A.)
+- 📅 Hacking Since: 2013
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 pull — Keep your forks up-to-date via automated PRs. (TypeScript) — github.com/wei/pull
+- 🛠️ socialify — Socialify your project. 🌐 Share with the world! (TypeScript) — github.com/wei/socialify
+- 🤖 git-sync — A GitHub Action for syncing between two independent repositories using force push. (Shell) — github.com/wei/git-sync
+
+## Coaching
+I'll be coaching at these upcoming hackathons. Come say hi!
+
+- ⚔️ [Knight Hacks VIII](https://2025.knighthacks.org/) (Oct 24-26)
+- 🎩 [DandyHacks](https://dandyhacks.net/) (Nov 14-16)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: TypeScript, JavaScript, Python
+- 🔭 Focus: Web Services, Developer Tools, Cloud Architecture
+- ❤️ Interests: Hackathons, Open Source, Cloudflare
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
