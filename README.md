@@ -1,24 +1,34 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/wei)
+[![Followers](https://img.shields.io/github/followers/wei?label=Followers&style=flat-square)](https://github.com/wei)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Wei He. I'm a Full Stack Engineer & Solutions Architect Expert at [Current Company]. I work on web services, cloud solutions, and open source projects with a focus on TypeScript, GitHub automation, and developer tools.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Florida
+- 🎓 Education: MBA from University of Illinois at Urbana-Champaign
+- 📅 Hacking Since: 2013
+- 🐦 Twitter: [@weicodes](https://twitter.com/weicodes)
+- 🌐 Website: [wei.sh](https://wei.sh)
+
+## Experience
+- 🎓 **MLH Coach** — Major League Hacking
+- 🚀 **Open Source Fellow** — MLH Fellowship
+
+## Upcoming Events
+I'll be coaching & mentoring at these hackathons in 2026:
+- 🎲 **[VTHacks 14](https://vthacks.com/)** — September 18-20 | Blacksburg, Virginia, US
+- 🏆 **[Knight Hacks IX](https://2026.knighthacks.org/)** — October 9-11 | Orlando, Florida, US
+- 🎯 **[HackGB](https://hackgb.com/)** — October 17-18 | Green Bay, Wisconsin, US
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🤖 [pull](https://github.com/wei/pull) — Keep your forks up-to-date via automated PRs (TypeScript) — github.com/wei/pull
+- 💞 [socialify](https://github.com/wei/socialify) — Socialify your project and share with the world (TypeScript) — github.com/wei/socialify
+- 🔃 [git-sync](https://github.com/wei/git-sync) — GitHub Action for syncing between two independent repositories (Shell) — github.com/wei/git-sync
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: TypeScript, JavaScript, Shell, Python, Go
+- 🔭 Focus: Full Stack Development, Cloud Solutions Architecture, GitHub Automation, Developer Tools
+- ❤️ Interests: Open Source, MLH Community, Developer Productivity, DevOps
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
